@@ -7,5 +7,5 @@
      <li>O Projeto foi retirado do Canal Tiger codes</li>
 </ul>
 
-<img src="bg.jpg" alt="Disney+">
+<img src="Screenshot_92.png" alt="Disney+">
  
