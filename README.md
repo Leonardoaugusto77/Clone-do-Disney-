@@ -4,7 +4,13 @@
 
 <ul>
  <li>Projeto com foco em treinar Flexbox</li>
+ 
+ <br>
+ 
  <li>O foco do Projeto e práticar HTML + CSS puro</li>
+ 
+  <br>
+ 
  <li>O Projeto foi retirado do Canal Tiger codes</li>
 </ul>
 
