@@ -1,4 +1,4 @@
-# Clone do Disney+ 📺
+# Clone do Disney+📺
  
 <h5>Detalhes a se destacar no projeto</h5>
 
